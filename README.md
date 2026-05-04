@@ -1,8 +1,8 @@
-# Paper Wide-Field Billet Detection
+# Apple Harvest Timing Model
 
-Code for the DELTA 2026 submission **Task-Aware Detection of Elongated Objects in Wide-Field Industrial Imagery**.
+Repository for Delta 2026 conference submission: Image-Based Prediction of Apple Harvest Timing
 
-This repository contains the training code used for the billet detection/regression experiments. The image data are not stored in git. Download the dataset from Figshare and place it in:
+The image data are not stored in git. Download the dataset from Figshare and place it in:
 
 ```text
 data/dataset_class/
